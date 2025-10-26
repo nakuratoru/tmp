@@ -1,6 +1,6 @@
 # ====== 設定 ======
 PADDING_MODE = "same"  # "same (with padding)" のみ
-EXCEL_INPUT_FILE = "cnn.xlsx"
+EXCEL_INPUT_FILE = "cnn_7.xlsx"
 EXCEL_OUTPUT_FILE = "cnn_filters_simple4.xlsx"
 SHEET_NAMES = {
     "input": "original",
